@@ -1,4 +1,6 @@
 # CourseLodge-e-signature
-This is a web application built with php and javascript and docusign simple restful API.
+This is a web application built with php and javascript to manage several documents.
 
-It system manages user's documents of the following format (pdf, doc, xls, csv) and gives an access to a user to embedd a signature to the document and send to recepient.
+Features are: add user, edit user, upload a document of any format, edit the document, Download, Delete the document.
+
+This is still a work in progress: One more important feature to be included is the document signature where user can sign each signature uploaded before downloading.
